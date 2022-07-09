@@ -1,0 +1,11 @@
+.conteudo{
+    width: 400px;
+    height: 300px;
+    border: 1px solid;
+    text-align: center;
+}
+
+.livros{
+    height: 200px;
+    border: 1px solid;
+}
